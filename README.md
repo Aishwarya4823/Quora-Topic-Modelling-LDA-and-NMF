@@ -16,3 +16,4 @@ The data consists of 404,289 Quora questions.Following is a snapshot of the data
 1st) Topics Vs words and 2nd) words Vs question
 
 # Result
+![Image2](https://github.com/Aishwarya4823/Quora-Topic-Modelling-LDA-and-NMF/blob/master/Images/results_image.PNG)
