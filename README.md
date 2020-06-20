@@ -6,4 +6,13 @@ unsupervised modelled topics
 # Data
 The data consists of 404,289 Quora questions.Following is a snapshot of the data:
 <br/>
-![Image1](https://github.com/Aishwarya4823/Principle-Component-Analysis-Using-Numpy-Pandas/blob/master/Images/Before.PNG)
+![Image1](https://github.com/Aishwarya4823/Quora-Topic-Modelling-LDA-and-NMF/blob/master/Images/Questions_image.PNG)
+
+# Method
+1) First, we create a TF-IDF matrix from the given questions
+2) Second, we use the LatentDirichletAllocation from sklearn.decomposition to create a LDA model that will assign highest probability words from our vocabulary (which consists of unique words taken from all the questions in our dataset) 
+3)Eventually we select the topic which shows highest probability for each question for that particular question
+4) We perform a similar approach for Non-Negative Matrix Factorization --><br/> We divide the TF-IDF matrix into two matrices : <br/>
+1st) Topics Vs words and 2nd) words Vs question
+
+# Result
