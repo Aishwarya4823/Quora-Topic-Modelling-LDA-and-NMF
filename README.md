@@ -18,13 +18,13 @@ The data consists of 404,289 Quora questions.Following is a snapshot of the data
 # Result
 ![Image2](https://github.com/Aishwarya4823/Quora-Topic-Modelling-LDA-and-NMF/blob/master/Images/results_image.PNG)
 <br/>
-#0 --> Technical/Books/Movies related questions
-#1 --> Looks related questions
-#2 --> QnA related questions
-#3 --> Social Media related questions
-#4 --> Life related questions
-#5 --> People/Nationality related questions
-#6 --> Language/Programming related questions
-#7 --> Politics related questions
-#8 --> Finance related questions
-#9 --> Daily time related questions
+#0 --> **Technical/Books/Movies** related questions<br/>
+#1 --> **Looks** related questions<br/>
+#2 --> **QnA** related questions<br/>
+#3 --> **Social Media** related questions<br/>
+#4 --> **Life** related questions<br/>
+#5 --> **People/Nationality** related questions<br/>
+#6 --> **Language/Programming** related questions<br/>
+#7 --> **Politics** related questions<br/>
+#8 --> **Finance** related questions<br/>
+#9 --> **Daily time** related questions<br/>
